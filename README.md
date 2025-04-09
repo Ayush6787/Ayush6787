@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ayush Argonda
 
-### 🧠 Machine Learning | 📊 Data Analytics | 👨‍💻 Streamlit Enthusiast
+### 🧠 Machine Learning | 📊 Data Analytics | 👨‍💻 Streamlit Enthusiast | 🤖🧠🇦🇮👾 Data Scientist
 
 ---
 
