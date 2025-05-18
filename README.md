@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on: **Cricket Analytics Dashboard with Face Recognition**
+- 🔭 I’m currently working on: **Different Gen AI Projects**
 - 🌱 Learning every day: Python, ML Ops, Streamlit Deployment
 - 🧠 Passionate about solving real-world problems using Machine Learning
 - 🧩 Building data-driven tools that are both insightful and interactive
